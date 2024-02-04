@@ -1,2 +1,2 @@
-FROM MasaMasa1126 phpexp:latest
-COPY src/ /var/www/html
+FROM MasaMasa1126/phpexp:latest
+COPY src/ /var/www/html/
